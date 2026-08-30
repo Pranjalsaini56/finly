@@ -43,3 +43,4 @@ finly/
 └── assets/
     ├── logo.png
     └── icon.png
+```text
