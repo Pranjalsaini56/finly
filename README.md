@@ -7,6 +7,10 @@ It helps users record income and expenses, automatically categorize
 transactions, identify duplicate transactions, detect unusual spending,
 and understand their financial activity through an interactive dashboard.
 
+## Live Demo
+
+🚀 [Open Finly](https://finly-finance.streamlit.app)
+
 ## Features
 
 - Income and expense tracking
