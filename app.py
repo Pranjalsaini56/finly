@@ -7,7 +7,7 @@ from datetime import date
 
 st.set_page_config(page_title="Finly", layout="wide")
 
-DATA_FILE = "my_expenses.csv"
+DATA_FILE = "finly_transactions.csv"
 LOGO_FILE = "assets/logo.png"
 ICON_FILE = "assets/icon.png"
 
